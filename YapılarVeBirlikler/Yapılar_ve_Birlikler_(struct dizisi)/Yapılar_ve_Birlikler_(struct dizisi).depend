@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644329054 source:c:\users\sude\desktop\c\yapılar_ve_birlikler_(struct dizisi)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

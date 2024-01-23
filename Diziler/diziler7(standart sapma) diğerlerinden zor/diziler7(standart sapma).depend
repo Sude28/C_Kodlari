@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636830305 source:c:\users\sude\desktop\c\diziler7(standart sapma)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

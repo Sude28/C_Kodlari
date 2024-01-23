@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639223641 source:c:\users\sude\desktop\c\fonksiyonlar(kelime bul)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

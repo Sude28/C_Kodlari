@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639909156 source:c:\users\sude\desktop\c\pointers(işaretçi zinciri)\main.c
+	<stdio.h>
+	<stdlib.h>
+

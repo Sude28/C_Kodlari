@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641034524 source:c:\users\sude\desktop\c\dinamik dizi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1641319774 source:c:\users\sude\desktop\c\dinamik bellek\main.c
+	<stdio.h>
+	<stdlib.h>
+

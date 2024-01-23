@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641053443 source:c:\users\sude\desktop\c\dinamik bellek (karakter dizisinin alt parçalarýný bulma(substring))\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643232776 source:c:\users\sude\desktop\c\dinamik bellek (karakter dizisinin alt parçalarýný bulma(substring))  bak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640868524 source:c:\users\sude\desktop\c\pointers -dizi-fonksiyon2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

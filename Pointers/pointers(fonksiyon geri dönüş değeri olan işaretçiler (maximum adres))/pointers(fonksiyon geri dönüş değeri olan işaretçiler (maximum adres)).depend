@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642266853 source:c:\users\sude\desktop\c\pointers(fonksiyon geri dönüþ deðeri olan iþaretçiler (maximum adres))\main.c
+	<stdio.h>
+	<stdlib.h>
+

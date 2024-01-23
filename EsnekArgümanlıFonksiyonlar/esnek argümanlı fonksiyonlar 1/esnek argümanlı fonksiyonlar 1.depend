@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639647304 source:c:\users\sude\desktop\c\esnek argümanlý fonksiyonlar 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

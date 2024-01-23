@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639658606 source:c:\users\sude\desktop\main fonksiyonunaparametre aktarýmý (c programýný parametrelerl-e konsoldan çaðýrýcaz ve bu parametreler-e baðlý olarak iþletim sisteminde klasörler nasýl oluþturulur)\klasör oluþtur\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636818468 source:c:\users\sude\desktop\c\dizi5(büyük-küçük)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642884314 source:c:\users\sude\desktop\c\dosyalama(fputc-fgetc)3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642886014 source:c:\users\sude\desktop\c\dosyalama(fputc-fgetc)3 for kullanmadan dosya okuma\main.c
+	<stdio.h>
+	<stdlib.h>
+

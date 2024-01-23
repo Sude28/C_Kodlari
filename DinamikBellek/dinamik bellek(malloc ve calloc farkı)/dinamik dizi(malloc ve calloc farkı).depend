@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641035965 source:c:\users\sude\desktop\c\dinamik dizi(malloc ve calloc farký)\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1641036155 source:c:\users\sude\desktop\c\dinamik bellek(malloc ve calloc farký)\main.c
+	<stdio.h>
+	<stdlib.h>
+

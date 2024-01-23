@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636805319 source:c:\users\sude\desktop\projeler\dizi2\main.c
+	<stdio.h>
+	<stdlib.h>
+
